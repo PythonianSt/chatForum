@@ -1,4 +1,6 @@
 <img width="3070" height="1579" alt="image" src="https://github.com/user-attachments/assets/d9681c89-b976-4230-b73a-a15339d29fab" /><img width="2303" height="1170" alt="image" src="https://github.com/user-attachments/assets/89519b84-9d79-48da-8c0e-b4f7ac78aff4" />
+0. AI Ethics
+  The webpage https://www.agnoshealth.com/forums is permitted for code testing. 
 1. Model Pipeline Construction Overview
 - Agnos Health Forum Chatbot
   A Retrieval-Augmented Generation (RAG) chatbot that answers health questions using data from Agnos Health forums.
